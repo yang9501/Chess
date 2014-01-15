@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sp13-cs242/!svn/ver/7023/yang201/Assignment1.3/test
+END
+allTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp13-cs242/!svn/ver/7680/yang201/Assignment1.3/test/allTests.java
+END
+BishopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/BishopTest.java
+END
+KnightTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/KnightTest.java
+END
+QueenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/QueenTest.java
+END
+ModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp13-cs242/!svn/ver/7335/yang201/Assignment1.3/test/ModelTest.java
+END
+RookTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/RookTest.java
+END
+PawnTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/PawnTest.java
+END
+KingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/KingTest.java
+END
+BoardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/BoardTest.java
+END
+ConnectableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/ConnectableTest.java
+END
+SoldierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/SoldierTest.java
+END
+ElephantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp13-cs242/!svn/ver/7676/yang201/Assignment1.3/test/ElephantTest.java
+END
